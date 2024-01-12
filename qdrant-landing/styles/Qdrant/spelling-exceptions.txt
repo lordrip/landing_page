@@ -25,6 +25,8 @@ archiver
 Arel
 arity
 Artifactory
+arXiv
+ArXiv
 Asana
 Asciidoctor
 Assembla
@@ -195,6 +197,7 @@ Docsy
 dogfood
 dogfooding
 dogfoods
+DOI
 dotenv
 downvoted
 downvotes
@@ -402,6 +405,7 @@ mitigations
 mitmproxy
 mixin
 mixins
+MLOps
 mockup
 mockups
 ModSecurity
@@ -496,6 +500,8 @@ prepended
 prepending
 prepends
 prepopulated
+preprint
+preprints
 Prettifier
 Pritaly
 Priyanka
@@ -878,6 +884,7 @@ wireframed
 wireframes
 wireframing
 Wireshark
+Wolt
 Wordpress
 worktree
 worktrees

@@ -1,7 +1,7 @@
 extends: existence
-message: "Don't use exclamation points in text."
+message: "Don't use exclamation points in text, except in blog posts."
 link: 'https://developers.google.com/style/exclamation-points'
 nonword: true
-level: error
+level: suggestion
 tokens:
   - '\w!(?:\s|$)'

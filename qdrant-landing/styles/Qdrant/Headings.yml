@@ -17,6 +17,7 @@ exceptions:
   - Docker
   - Emmet
   - gRPC
+  - Hugging Face
   - I
   - Kubernetes
   - Linux
