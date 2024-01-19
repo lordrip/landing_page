@@ -1,5 +1,6 @@
 accessor
 accessors
+Airbyte
 Akismet
 Alertmanager
 Algolia
@@ -14,6 +15,8 @@ anonymized
 Ansible
 Anthos
 Apdex
+API
+APIs
 apk
 Apparmor
 approvers
@@ -293,6 +296,7 @@ hotfixing
 htmltest
 http
 https
+Hugging Face
 idempotence
 idmapper
 Iglu
@@ -319,6 +323,8 @@ Javafuzz
 JavaScript
 Jenkins
 Jenkinsfile
+Jina
+jina
 Jira
 jpg
 jpeg
@@ -356,6 +362,8 @@ Leiningen
 libFuzzer
 Libravatar
 liveness
+LLM
+LLMs
 Lodash
 Lograge
 logrotate
@@ -381,6 +389,7 @@ matchers
 Matomo
 Mattermost
 mbox
+memmap
 memoization
 memoize
 memoized
@@ -414,6 +423,7 @@ monorepo
 monorepos
 mov
 multiline
+multitenancy
 mutex
 nameserver
 nameservers
@@ -649,6 +659,8 @@ spidering
 Splunk
 SpotBugs
 sqlmap
+SSD
+SSDs
 Stackdriver
 Stackprof
 starrer
@@ -844,6 +856,8 @@ unverify
 unverifying
 uploader
 uploaders
+upsert
+Upsert
 upstreams
 upvote
 upvoted

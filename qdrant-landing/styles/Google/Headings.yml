@@ -5,18 +5,17 @@ level: warning
 scope: heading
 match: $sentence
 indicators:
-  - ':'
+  - ":"
 exceptions:
   - API
-  - AWS
-  - AWS Marketplace
   - Azure
+  - Cheshire Cat
   - CLI
-  - Code
   - Cosmos
   - Docker
   - Emmet
   - gRPC
+  - HNSW
   - Hugging Face
   - I
   - Kubernetes
@@ -24,6 +23,7 @@ exceptions:
   - macOS
   - Marketplace
   - MongoDB
+  - OpenAI
   - Qdrant
   - Qdrant Cloud
   - REPL

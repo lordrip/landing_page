@@ -1,7 +1,9 @@
 extends: existence
-message: "Don't use exclamation points in text, except in blog posts."
+message: "Minimize the use of exclamation points in text."
 link: 'https://developers.google.com/style/exclamation-points'
 nonword: true
 level: suggestion
+action:
+  name: remove
 tokens:
-  - '\w!(?:\s|$)'
+  - '\w+!(?:\s|$)'

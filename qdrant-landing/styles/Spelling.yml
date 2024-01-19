@@ -1,5 +1,5 @@
 ---
-# Warning: gitlab.Spelling
+# Warning: qdrant.Spelling
 #
 # Checks for possible spelling mistakes in content, not code. Results from links using angle brackets (<https://example.com>) should be corrected.
 #
@@ -13,4 +13,4 @@ extends: spelling
 message: 'Spelling check: "%s"?'
 level: warning
 ignore:
-  - cobalt/spelling-exceptions.txt
+  - Qdrant/spelling-exceptions.txt
